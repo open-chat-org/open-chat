@@ -1,0 +1,9 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:open-chat-org/auth-service.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:open-chat-org/user-service.git
+[submodule "websocket-service"]
+	path = websocket-service
+	url = git@github.com:open-chat-org/websocket-service.git
