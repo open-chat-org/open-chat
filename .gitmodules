@@ -5,8 +5,11 @@
 	path = user-service
 	url = git@github.com:open-chat-org/user-service.git
 [submodule "websocket-service"]
-	path = websocket-service
-	url = git@github.com:open-chat-org/websocket-service.git
+    path = websocket-service
+    url = git@github.com:open-chat-org/websocket-service.git
 [submodule "upload-service"]
 	path = upload-service
 	url = git@github.com:open-chat-org/upload-service.git
+[submodule "graphql-service"]
+	path = graphql-service
+	url = git@github.com:open-chat-org/graphql-service.git
