@@ -13,3 +13,6 @@
 [submodule "graphql-service"]
 	path = graphql-service
 	url = git@github.com:open-chat-org/graphql-service.git
+[submodule "payment-service"]
+	path = payment-service
+	url = git@github.com:open-chat-org/payment-service.git
