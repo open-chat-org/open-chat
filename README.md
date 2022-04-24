@@ -4,7 +4,7 @@ Open source chat platform.
 
 ## Architecture
 
-![Architecture](https://raw.githubusercontent.com/open-chat-org/open-chat/main/document/open-chat.drawio.png)
+![Architecture](https://raw.githubusercontent.com/open-chat-org/open-chat/main/document/open-chat.drawio.jpg)
 
 ## Contributing
 
