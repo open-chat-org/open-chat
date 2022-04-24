@@ -16,3 +16,6 @@
 [submodule "payment-service"]
 	path = payment-service
 	url = git@github.com:open-chat-org/payment-service.git
+[submodule ".github"]
+	path = .github
+	url = git@github.com:open-chat-org/.github.git
