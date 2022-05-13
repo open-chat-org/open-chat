@@ -1,5 +1,5 @@
 defmodule MailService.Email do
-  import Bamboo.Email
+  import Bamboo.Email, only: [new_email: 0, from: 2, to: 2, subject: 2, text_body: 2]
 
   def welcome_email do
     base_email()
